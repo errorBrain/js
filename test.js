@@ -3,7 +3,7 @@ var PopWidth = 1370;
 var PopHeight = 800;
 var PopFocus = 0;
 var _Top = null;
-var hitadsmedia = 'https://bit.ly/2CH2mOU';
+var hitadsmedia = 'https://yim3eyv5.top/i6d40dp6?key=f5db31bbebc2e21d6f4158644aa755a3';
 
 function GetWindowHeight() {
   var myHeight = 0;
